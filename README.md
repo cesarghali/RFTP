@@ -20,8 +20,8 @@ The code was implemented using GNU C++ (g++ compiler version 4.3.3) under Linux 
 
 Partners
 --------
-Wassim Itani
-Ahmad El Hajj
+* Wassim Itani
+* Ahmad El Hajj
 
 References
 ----------
